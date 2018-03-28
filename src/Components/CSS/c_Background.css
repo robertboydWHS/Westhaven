@@ -1,0 +1,86 @@
+#jumboContainer{
+    position: relative;
+    z-index: 3;
+}
+#h_bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+  }
+
+#freequote{
+    width: 200px;
+    height: 50px;
+}
+
+/* classes */
+.overlay{
+    position: absolute;
+    background-color:rgba(0, 0, 0, 0.493);
+    z-index: 2;
+    top: 0%;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+}
+
+.jumbotron{
+  
+    background-size: cover;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    top:0;
+    position: relative;
+    width: 100%;
+}
+
+.bg1{
+    background-image: url("../../MainBackground.jpg");
+    width: 100%;
+    height: 98vh;
+    background-size: cover;
+    
+}
+
+
+.bg2{
+    background-image: url("../../MainBackground2.jpg");
+    width: 100%;
+    height: 98vh;
+    background-size: cover;
+    
+}
+
+
+.bg3{
+    background-image: url("../../MainBackground3.jpg");
+    width: 100%;
+    height: 98vh;
+    background-size: cover;
+  
+}
+
+.announcement{
+    font-size: 70px;
+    color: #ffffff;
+}
+
+.announcementSmall{
+    color: #ffffff;
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+    z-index: 5;
+}
+
+.carousel-caption h1{
+    font-size: 80px;
+}
+
+

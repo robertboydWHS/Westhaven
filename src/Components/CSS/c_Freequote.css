@@ -1,0 +1,21 @@
+#freequote_form{
+    background-color: #ffffff;
+    position: fixed;
+    top: 50%;
+    z-index: 50;
+    
+}
+
+.form-control{
+    width: 25%;
+}
+
+
+/* show or hide the form from carousel button */
+.displayNone{
+    display: none;
+}
+
+.displayBlock{
+    display: block;
+}

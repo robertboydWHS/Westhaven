@@ -1,0 +1,42 @@
+@import './Components/CSS/c_Nav.css';
+@import './Components/CSS/c_Background.css';
+@import './Components/CSS/c_Freequote.css';
+@import './Components/CSS/c_Products.css';
+
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Lato|Oswald');
+body{
+  max-width: 100%;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+
+}
+
+a{
+  font-family:'lato', 'sans-serif';
+}
+
+h1{
+  font-family: 'Oswald', 'sans-serif';
+}
+
+/* bootstrap cleanup */
+.container-fluid{
+  padding: 0px;
+}
+
+.dark{
+  background-color: #001e61;
+}
+
+.clear{
+  background-color: #001e6100;
+}
+
+.btn-primary {
+  background-color: #e28432;
+  border: none;
+  border-radius: 0;
+}

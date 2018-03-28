@@ -1,0 +1,26 @@
+#products_menu{
+    position: absolute;
+    z-index: 4;
+    background-color: #646569;
+    padding: 11px;
+    bottom: 0;
+    height: 55px;
+    max-height: 55px;
+}
+
+ .products_li {
+     display: inline;
+    text-decoration: none;
+    margin:15px;
+    
+
+}
+
+.products_li a {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.top-margin{
+    margin-top:30px;
+}
