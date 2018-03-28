@@ -90,7 +90,7 @@ class Home extends Component {
                             
                         </div>
                         <div className="col-xl-4">
-                            <ProductPanel title = "Roofing Testing"/>
+                            <ProductPanel title = "Roofing Tes="/>
                         </div>
                         <div className="col-xl-4">
                             <ProductPanel title = "HVAC Testing" />
